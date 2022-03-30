@@ -1,0 +1,23 @@
+.navbar-color{
+    background: rgb(5,112,255);
+background: radial-gradient(circle, rgba(5,112,255,1) 0%, rgba(3,133,159,1) 100%);
+}
+
+/* .navbar-nav{
+    margin-left: auto;
+} */
+
+.text-navbar{
+    font-size: 30px;
+    margin: 50px;
+}
+
+.navbar-item{
+    margin:auto 40px;
+}
+
+.navbar-rev{
+    display: flex;
+    flex-direction: row-reverse;
+}
+

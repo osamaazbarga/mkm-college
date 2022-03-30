@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "mkm-college-project",
+    "staging": "mkm-college-project"
+  },
+  "targets": {}
+}

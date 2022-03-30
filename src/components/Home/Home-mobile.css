@@ -1,0 +1,25 @@
+@media only screen and (max-width: 600px) {
+    body {
+      /* background-color: lightblue; */
+    }
+    .main{
+        margin-top: 40px;
+    }
+    .main .half-main{
+        /* margin: 0px auto; */
+        width: 100%;
+        text-align: center;
+    
+    }
+    .main .img-item{
+        min-height: 0;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .responsive {
+        width: 100%;
+
+        height: auto; 
+    }
+  }
